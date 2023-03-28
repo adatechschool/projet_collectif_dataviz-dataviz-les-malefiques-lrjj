@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: purple;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+button {
+    background-color:burlywood;
+    border-style: dotted dashed solid double;
+    border-color: aqua;
+    border-width: 5px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#img-box{
+    display: inline-block;
+}
+
+header{
+    text-align: right;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
